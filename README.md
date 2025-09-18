@@ -80,13 +80,6 @@ Snack Squad is your go-to companion for planning the perfect movie night, party,
 
 ---
 
-## 📂 Source Code & Demo
-
-- 🔗 **GitHub Repository:**  
-  [Snack Squad GitHub Repo](https://github.com/dhirajrhatwal8788-cell/Snack-Squad-A-Customizable-Snack-Ordering-and-Delivery-App.git)
-
-- 🎥 **Project Demo (Drive):**  
-  [Snack Squad - Demo Video](https://drive.google.com/file/d/19tFlZ-nowqML1fBb0PJln4hbla7_DRlW/view)
 
 ---
 
